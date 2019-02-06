@@ -6,5 +6,23 @@ p   {
   font-size: 20px;
 }
 h2  {
-  font-weight: bold; 
+  font-weight: bold;
+}
+.blueback{
+  background-color: blue;
+  border: solid;
+  border-color: green;
+}
+.tel{
+  font-family: monospace;
+  background-color: blue;
+  height: 60px;
+}
+#ital{
+  font-style: italic;
+}
+.align{
+  text-align: center;
+  float: none;
+  height: 3px;
 }
